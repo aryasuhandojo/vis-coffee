@@ -35,18 +35,17 @@ li {
   padding: 33px 20px;
 }
 
-.top-wrapper {
-  padding: 160px 0 100px 0;
+.main {
   background-image: url(https://www.pexels.com/photo/caffeine-coffee-coffee-beans-roasted-585750/);
   background-size: cover;
 }
 
-.top-wrapper h1 {
+.main h1 {
   font-size: 60px;
 }
 
-.top-wrapper h2 {
-  font-size: 35px
+.main h2 {
+  font-size: 45px
 }
 
 .top-wrapper .borderbox{
