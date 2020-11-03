@@ -27,10 +27,10 @@ li {
 }
 
 .header-list {
-  float: left;
+  float: right;
 }
 
 .header-list li {
-  float: right;
+  float: left;
   padding: 33px 20px;
 }
