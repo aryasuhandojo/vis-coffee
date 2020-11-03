@@ -7,7 +7,7 @@ form, input, div {
 }
 
 body {
-  font-family: "Avenir Next";
+  font-family: "GT Walsheim";
 }
 
 li {
@@ -21,7 +21,7 @@ li {
 }
 
 .header-logo {
-  float: center;
+  float: left;
   font-size: 36px;
   padding: 20px 40px;
 }
@@ -33,4 +33,28 @@ li {
 .header-list li {
   float: left;
   padding: 33px 20px;
+}
+
+.top-wrapper {
+  padding: 160px 0 100px 0;
+  background-image: url(https://www.pexels.com/photo/caffeine-coffee-coffee-beans-roasted-585750/);
+  background-size: cover;
+  color: white;
+  text-align: right;
+}
+
+.top-wrapper h1 {
+  font-size: 60px;
+}
+
+.top-wrapper h2 {
+  font-size: 35px
+}
+
+.top-wrapper .borderbox{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 50%;
+  display: inline-block;
+  padding: 0px 10px 30px 10px;
+  line-height: normal;
 }
