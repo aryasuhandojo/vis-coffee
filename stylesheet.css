@@ -21,7 +21,7 @@ li {
 }
 
 .header-logo {
-  float: left;
+  float: center;
   font-size: 36px;
   padding: 20px 40px;
 }
