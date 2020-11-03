@@ -38,6 +38,7 @@ li {
 .main {
   background-image: url(https://images.pexels.com/photos/585750/pexels-photo-585750.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
   background-size: cover;
+  height: 800px;
 }
 
 .copy-container h1 {
