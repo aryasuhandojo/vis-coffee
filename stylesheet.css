@@ -64,11 +64,13 @@ li {
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
 }
 
 .contents-item {
   float: left;
-  width : 50%
+  margin-right: 40px;
 }
 
 .content-item h3 {
