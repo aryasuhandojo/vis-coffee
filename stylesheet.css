@@ -56,3 +56,21 @@ li {
   padding: 0px 10px 30px 10px;
   line-height: normal;
 }
+
+.contents {
+  height: 500px;
+  margin-top: 300px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+}
+
+.contents-item {
+  float: left;
+  width : 50%
+}
+
+.content-item h3 {
+  margin-top: 30px;
+}
