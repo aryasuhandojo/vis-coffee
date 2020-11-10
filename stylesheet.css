@@ -15,7 +15,7 @@ li {
 }
 
 .header {
-  background-color: #D3B179;
+  background-color: #556052;
   color: #fff;
   height: 90px;
 }
@@ -43,7 +43,7 @@ li {
 
 .copy-container h1 {
   font-size: 60px;
-  padding-top: 250px;
+  padding-top: 300px;
 }
 
 .copy-container h2 {
@@ -60,11 +60,12 @@ li {
 
 .contents {
   height: 500px;
-  margin-top: 350px;
+  margin-top: 300px;
+  background-color: #CBBCB1;
 }
 
 .section-title {
-  border-bottom: 2px solid #dee7ec;
+  border-bottom: 2px solid #AF6B58;
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
@@ -76,4 +77,22 @@ li {
 
 .content-item h3 {
   margin-top: 30px;
+}
+
+.contact-form {
+  padding-top: 100px;
+}
+
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #AF6B58;
+}
+
+.contact-submit {
+  background-color: #CBBCB1;
+  color: #AF6B58;
 }
