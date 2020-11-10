@@ -46,12 +46,13 @@ li {
 }
 
 .copy-container h2 {
-  font-size: 45px
+  font-size: 40px
 }
 
 
 .contents {
   height: 500px;
+  margin-top: auto;
   padding-top: 50px;
   background-color: #CBBCB1;
 }
