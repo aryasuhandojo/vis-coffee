@@ -50,13 +50,6 @@ li {
   font-size: 50px
 }
 
-.main .borderbox{
-  background-color: rgba(0, 0, 0, 0.5);
-  width: 50%;
-  display: inline-block;
-  padding: 0px 10px 30px 10px;
-  line-height: normal;
-}
 
 .contents {
   height: 500px;
