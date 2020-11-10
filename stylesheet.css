@@ -43,11 +43,11 @@ li {
 
 .copy-container h1 {
   font-size: 60px;
-  padding-top: 300px;
+  padding-top: 150px;
 }
 
 .copy-container h2 {
-  font-size: 45px
+  font-size: 50px
 }
 
 .main .borderbox{
@@ -60,7 +60,7 @@ li {
 
 .contents {
   height: 500px;
-  padding-top: 120px;
+  padding-top: 50px;
   background-color: #CBBCB1;
 }
 
