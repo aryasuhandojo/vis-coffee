@@ -107,19 +107,18 @@ input, textarea {
 
 .footer {
   background-color: #AF6B58;
+  color: #fff;
   height: 80px;
-  padding: 30px;
 }
 
 .footer-logo {
-  font-size: 32px;
-  float: left;
+  float; left;
 }
 
 .footer-list {
   float: right;
 }
 
-.float-list li {
-  padding-bottom: 20px;
+.footer-list li {
+  padding-bottom: 10px;
 }
