@@ -68,21 +68,26 @@ li {
 .contents-item {
   float: left;
   margin-right: 40px;
+  text-align: center;
 }
 
 .content-item h3 {
   margin-top: 30px;
+  text-align: center;
 }
 
 .story {
-  height: 200px;
+  height: 300px;
   padding-top: 50px;
   text-align: center;
   background-color: #F2EFEA;
 }
 
 .contact-form {
-  padding-top: 100px;
+  padding-top: 50px;
+}
+
+.section-title {
   text-align: center;
 }
 
@@ -98,4 +103,23 @@ input, textarea {
 .contact-submit {
   background-color: #CBBCB1;
   color: #AF6B58;
+}
+
+.footer {
+  background-color: #AF6B58;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+.float-list li {
+  padding-bottom: 20px;
 }
