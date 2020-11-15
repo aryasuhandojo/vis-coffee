@@ -73,6 +73,13 @@ li {
   margin-top: 30px;
 }
 
+.story {
+  height: 200px;
+  padding-top: 50px;
+  text-align: center;
+  background-color: #F2EFEA;
+}
+
 .contact-form {
   padding-top: 100px;
 }
