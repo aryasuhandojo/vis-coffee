@@ -115,11 +115,3 @@ input, textarea {
   font-size: 32px;
   float; left;
 }
-
-.footer-list {
-  float: right;
-}
-
-.footer-list li {
-  padding-bottom: 10px;
-}
