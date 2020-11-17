@@ -109,6 +109,8 @@ input, textarea {
   background-color: #AF6B58;
   color: #fff;
   height: 120px;
+  position: absolute;
+  bottom: 0;
 }
 
 .footer-logo {
