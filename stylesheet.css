@@ -38,7 +38,7 @@ li {
 .main {
   background-image: url(https://images.pexels.com/photos/585750/pexels-photo-585750.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
   background-size: cover;
-  height: 600px;
+  height: 1600px;
 }
 
 .copy-container h1 {
@@ -92,6 +92,7 @@ li {
 }
 
 input, textarea {
+  height: 500px;
   width: 400px;
   margin-top: 10px;
   margin-bottom: 30px;
