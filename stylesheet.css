@@ -35,7 +35,7 @@ li {
   padding: 33px 20px;
 }
 
-.main {
+.copy-container {
   background-image: url(https://images.pexels.com/photos/585750/pexels-photo-585750.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
   background-size: cover;
   height: 500px;
@@ -47,7 +47,7 @@ li {
 }
 
 .copy-container h2 {
-  font-size: 40px
+  font-size: 40px;
 }
 
 
@@ -114,5 +114,5 @@ input, textarea {
 
 .footer-logo {
   font-size: 32px;
-  float; left;
+  float: left;
 }
